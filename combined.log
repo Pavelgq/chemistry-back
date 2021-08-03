@@ -1,0 +1,121 @@
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433:1433 - getaddrinfo ENOTFOUND SERVLES:1433","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES,1433:1433 - getaddrinfo ENOTFOUND SERVLES,1433","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLESSQLEXPRESS:1433 - getaddrinfo ENOTFOUND SERVLESSQLEXPRESS","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES/SQLEXPRESS:1433 - getaddrinfo ENOTFOUND SERVLES/SQLEXPRESS","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES/SQLEXPRESS:1433 - getaddrinfo ENOTFOUND SERVLES/SQLEXPRESS","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"EINSTLOOKUP","originalError":{"message":"Port for SQLEXPRESS not found in SERVLES","code":"EINSTLOOKUP"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ETIMEOUT","originalError":{"message":"Failed to connect to \\SERVLES in 15000ms","code":"ETIMEOUT"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"code":"ESOCKET","originalError":{"message":"Failed to connect to SERVLES:1433 - self signed certificate","code":"ESOCKET"},"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":{"name":"ConnectionError"}}
+{"code":"ENOCONN","name":"RequestError","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "}]],"recordset":[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "}],"output":{},"rowsAffected":[]},"level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "}]],"recordset":[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "}],"output":{},"rowsAffected":[]},"level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "},{"id":2,"firstName":"Владислав","lastName":"Рожков"}]],"recordset":[{"id":1,"firstName":"Павел          ","lastName":"Гордеев        "},{"id":2,"firstName":"Владислав","lastName":"Рожков"}],"output":{},"rowsAffected":[]},"level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел","lastName":"Гордеев "},{"id":2,"firstName":"Владислав","lastName":"Рожков"}]],"recordset":[{"id":1,"firstName":"Павел","lastName":"Гордеев "},{"id":2,"firstName":"Владислав","lastName":"Рожков"}],"output":{},"rowsAffected":[]},"level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел","lastName":"Гордеев"},{"id":2,"firstName":"Владислав","lastName":"Рожков"}]],"recordset":[{"id":1,"firstName":"Павел","lastName":"Гордеев"},{"id":2,"firstName":"Владислав","lastName":"Рожков"}],"output":{},"rowsAffected":[]},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":null}
+{"message":{"recordsets":[[{"id":1,"firstName":"Павел","lastName":"Гордеев"},{"id":2,"firstName":"Владислав","lastName":"Рожков"}]],"recordset":[{"id":1,"firstName":"Павел","lastName":"Гордеев"},{"id":2,"firstName":"Владислав","lastName":"Рожков"}],"output":{},"rowsAffected":[]},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":null}
+{"message":[{"id":1,"firstName":"Павел","lastName":"Гордеев"},{"id":2,"firstName":"Владислав","lastName":"Рожков"}],"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"info","message":null}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42S22","code":207,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":207,"lineNumber":1,"state":"42S22","class":16,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}

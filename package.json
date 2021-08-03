@@ -1,0 +1,32 @@
+{
+  "name": "chemistry-data-back",
+  "version": "1.0.0",
+  "description": "Backend for chemistry data ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devserver": "nodemon ./src/index.js",
+    "runserver": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pavelgq/chemistry-back.git"
+  },
+  "author": "Pavel Gordeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavelgq/chemistry-back/issues"
+  },
+  "homepage": "https://github.com/Pavelgq/chemistry-back#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "msnodesqlv8": "^2.2.0",
+    "mssql": "^7.2.0",
+    "nodemon": "^2.0.12",
+    "npm": "^7.20.3",
+    "winston": "^3.3.3"
+  }
+}
