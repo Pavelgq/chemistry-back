@@ -119,3 +119,113 @@
 {"message":"Server running at http://localhost:3001/","level":"info"}
 {"message":"Server running at http://localhost:3001/","level":"info"}
 {"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"recordsets":[[{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:10:18.267Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null}]],"recordset":[{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:10:18.267Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null}],"output":{},"rowsAffected":[]},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":[{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:10:30.867Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null}],"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":[{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:10:42.963Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null}],"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:10:49.190Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:11:01.707Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:11:18.363Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:11:35.630Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:11:58.390Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:12:14.927Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-03T16:12:25.283Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:41:56.547Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:42:19.883Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:42:34.903Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:42:46.023Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:42:55.417Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:43:17.297Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42S02","code":208,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":208,"lineNumber":1,"state":"42S02","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:44:20.637Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":{"id":1,"title":"ZnO","param1":"Размер частицы","param2":"Номер печи","param3":null,"param4":null},"level":"info"}
+{"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:44:40.670Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":{"id":1,"title":"ZnO","param1":"Размер частицы","param2":"Номер печи","param3":null,"param4":null},"level":"info"}
+{"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:45:02.913Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":{"id":1,"title":"ZnO","param1":"Размер частицы","param2":"Номер печи","param3":null,"param4":null},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":{"partNumber":"wq12","typeID":1,"manufactureDate":"2020-09-10T00:00:00.000Z","unloadingDate":"1999-01-20T00:00:00.000Z","userID":"1         ","updateTime":"2021-08-04T08:45:54.370Z","locationStorage":"улица","amountIn":400,"amountStore":400,"param1":null,"param2":null,"param3":null,"param4":null,"comment":null},"level":"info"}
+{"message":{"id":1,"title":"ZnO","param1":"Размер частицы","param2":"Номер печи","param3":null,"param4":null},"level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":132,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":5},"name":"RequestError","number":132,"lineNumber":5,"state":"42000","class":15,"serverName":"SERVLES","procName":"","precedingErrors":[{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":102,"severity":15,"serverName":"SERVLES","procName":"","lineNumber":4},"name":"RequestError","number":102,"lineNumber":4,"state":"42000","class":15,"serverName":"SERVLES","procName":""}],"level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"21S01","code":213,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":213,"lineNumber":1,"state":"21S01","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"code":"EREQUEST","originalError":{"sqlstate":"21S01","code":213,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":213,"lineNumber":1,"state":"21S01","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"code":"EREQUEST","originalError":{"sqlstate":"21S01","code":213,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":213,"lineNumber":1,"state":"21S01","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"code":"EREQUEST","originalError":{"sqlstate":"42000","code":257,"severity":16,"serverName":"SERVLES","procName":"","lineNumber":1},"name":"RequestError","number":257,"lineNumber":1,"state":"42000","class":16,"serverName":"SERVLES","procName":"","level":"error"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}
+{"message":"Server running at http://localhost:3001/","level":"info"}

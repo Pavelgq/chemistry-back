@@ -4,7 +4,7 @@ const cors = require('cors');
 const logger = require(`../logger/logger`);
 
 const userRoutes = require(`../routes/users-route`);
-
+const chemetryRoutes = require(`../routes/chemetry-route`);
 
 
 const app = express();
@@ -18,6 +18,7 @@ app.use(cors());
 
 
 app.use(`/api/user`, userRoutes);
+app.use(`/api/chemetry`, chemetryRoutes);
 
 const HOSTNAME = process.env.SERVER_HOST || `localhost`;
 const PORT = parseInt(process.env.SERVER_PORT, 10) || 3001;
